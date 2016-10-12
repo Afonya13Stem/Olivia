@@ -1,0 +1,11 @@
+/* font-family: "RobotoRegular"; */
+
+@font-face {
+	font-family: "OpenSans";
+	src: url("../fonts/OpenSans.ttf");
+}
+@font-face {
+	font-family: "OpenSansSemiBold";
+	src: url("../fonts/OpenSansSemiBold.ttf");
+}
+
